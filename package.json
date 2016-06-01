@@ -1,0 +1,22 @@
+{
+    "name": "LCT",
+    "displayName": "Light Cyan Theme",
+    "description": "A light Color Theme with many shapes of blue.",
+    "version": "0.0.1",
+    "publisher": "Julisep",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light Cyan Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Flat.tmTheme"
+            }
+        ]
+    }
+}
