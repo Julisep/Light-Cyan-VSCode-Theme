@@ -2,7 +2,7 @@
     "name": "light-cyan-theme",
     "displayName": "Light Cyan Theme",
     "description": "A light Color Theme with many shapes of blue.",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "Julisep",
     "engines": {
         "vscode": "^1.0.0"
