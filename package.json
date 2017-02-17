@@ -2,14 +2,19 @@
     "name": "light-cyan-theme",
     "displayName": "Light Cyan Theme",
     "description": "A light Color Theme with many shapes of blue.",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "publisher": "Julisep",
     "engines": {
-        "vscode": "*"
+        "vscode": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Julisep/Light-Cyan-VSCode-Theme.git"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
