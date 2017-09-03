@@ -1,15 +1,15 @@
 {
-    "name": "light-cyan-theme",
-    "displayName": "Light Cyan Theme",
-    "description": "A light Color Theme with many shapes of blue.",
+    "name": "compact-theme",
+    "displayName": "Compact Theme",
+    "description": "A light, vivid Color Theme.",
     "version": "1.0.6",
     "publisher": "Julisep",
     "engines": {
-        "vscode": "^1.0.0"
+        "vscode": "^1.15.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Julisep/Light-Cyan-VSCode-Theme.git"
+        "url": "https://github.com/Julisep/Compact-Theme.git"
     },
     "categories": [
         "Themes"
@@ -20,7 +20,7 @@
             {
                 "label": "Light Cyan Theme",
                 "uiTheme": "vs",
-                "path": "./themes/lct.tmTheme"
+                "path": "./themes/compact.json"
             }
         ]
     }
