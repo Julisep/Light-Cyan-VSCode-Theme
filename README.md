@@ -2,11 +2,15 @@
 
 A light, vivid theme for VSCode.
 
-## Install via Marketplace
+## Usage
+### Install via Marketplace
 Search for Compact Theme
 
-## How to use without Marketplace
-Just clone the repository and copy the cloned folder to a new folder under your .vscode/extensions folder and restart VS Code.
+### Install via CLI
+> ext install compact-theme
+
+## Local Deployment
+Clone the repository and copy the cloned folder to a new folder under your .vscode/extensions folder and restart VS Code.
 See [here](https://code.visualstudio.com/Docs/customization/themes) for more.
 
 **Profit!**
